@@ -165,6 +165,23 @@ main{
 .sponsers-image-container img{
     width: 165px;
 }
+/* footer styles */
+.footer{
+    margin-top: 130px;
+    margin-bottom: 216px;
+    margin-right: 240px;
+    margin-left: 240px;
+    width: 1440px;
+    height: 100px;
+    border-radius: 8px;
+    background: #FFF4E7;
+}
+.footer .footer-content{
+    text-align: center;
+    padding-top: 39px;
+    padding-bottom: 38px;
+    color: Dark 02;
+}
 
 /* responsive media query */
 /* mobile devices */
